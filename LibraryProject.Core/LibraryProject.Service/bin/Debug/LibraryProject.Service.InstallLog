@@ -1,0 +1,30 @@
+﻿Installing assembly 'C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.InstallLog
+   assemblypath = C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.exe
+   logtoconsole = 
+Rolling back assembly 'C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.InstallLog
+   assemblypath = C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.exe
+   logtoconsole = 
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.InstallLog
+   assemblypath = C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.exe
+   logtoconsole = 
+Installing service StudentEmailReminder...
+Service StudentEmailReminder has been successfully installed.
+Creating EventLog source StudentEmailReminder in log Application...
+Committing assembly 'C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.InstallLog
+   assemblypath = C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.exe
+   logtoconsole = 

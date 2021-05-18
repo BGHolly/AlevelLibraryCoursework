@@ -1,0 +1,1 @@
+InstallUtil /i C:\git\libraryproject\LibraryProject.Core\LibraryProject.Service\bin\Debug\LibraryProject.Service.exe

@@ -1,0 +1,8 @@
+C:\git\libraryproject\LibraryProject.Core\LibraryProject.Forms\obj\Release\LibraryProject.Forms.csprojAssemblyReference.cache
+C:\git\libraryproject\LibraryProject.Core\LibraryProject.Forms\obj\Release\LibraryProject.Forms.AdminHomeForm.resources
+C:\git\libraryproject\LibraryProject.Core\LibraryProject.Forms\obj\Release\LibraryProject.Forms.LoginForm.resources
+C:\git\libraryproject\LibraryProject.Core\LibraryProject.Forms\obj\Release\LibraryProject.Forms.Properties.Resources.resources
+C:\git\libraryproject\LibraryProject.Core\LibraryProject.Forms\obj\Release\LibraryProject.Forms.RegisterForm.resources
+C:\git\libraryproject\LibraryProject.Core\LibraryProject.Forms\obj\Release\LibraryProject.Forms.UserHomeForm.resources
+C:\git\libraryproject\LibraryProject.Core\LibraryProject.Forms\obj\Release\LibraryProject.Forms.csproj.GenerateResource.cache
+C:\git\libraryproject\LibraryProject.Core\LibraryProject.Forms\obj\Release\LibraryProject.Forms.csproj.CoreCompileInputs.cache
